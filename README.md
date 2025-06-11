@@ -12,7 +12,7 @@ This component is developed by TechHamara using Fast, a powerful tool for creati
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
-**Library Used On** [slidetoact](https://github.com/Applib-HarmonyOS/slidetoact) Thanks Applib-HarmonyOS for this awesome library.
+📚 **Library Used On** [slidetoact](https://github.com/Applib-HarmonyOS/slidetoact) Thanks Applib-HarmonyOS for this awesome library.
 
 ## Demo
 
