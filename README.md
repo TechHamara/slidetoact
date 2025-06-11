@@ -13,6 +13,48 @@ This component is developed by TechHamara using Fast, a powerful tool for creati
 📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 
+![SlideReset_Event](https://github.com/user-attachments/assets/1cde192c-5ef4-4f93-893a-8ec5fef1cde1)
+![SlideFailed_Event](https://github.com/user-attachments/assets/11b49d58-0a72-4628-99e6-feeff709e1cb)
+![SlideCompleted_Event](https://github.com/user-attachments/assets/68677508-c8ee-4b06-8dd1-2c63ecc5f156)
+![SlideAnimationStarted_Event](https://github.com/user-attachments/assets/14331bc2-82d8-4bf9-a446-67fb7e6c874a)
+![SlideAnimationEnded_Event](https://github.com/user-attachments/assets/9402b0c2-b0b7-481a-b256-c4eb19c0c63c)
+![ResetAnimationStarted_Event](https://github.com/user-attachments/assets/3898e6cf-9941-4bf4-be99-5140e3136675)
+![ResetAnimationEnded_Event](https://github.com/user-attachments/assets/2f3a5713-b7d2-4b87-aebb-9713f882b6de)
+
+-----
+
+![EmojiIcon_Method](https://github.com/user-attachments/assets/c5127bbc-f46a-4204-9ec0-d0ab28ed9212)
+![ArrowIcon_Method](https://github.com/user-attachments/assets/6bb87d00-73c8-4c20-9505-d276d9c28bcd)
+![Reset_Method](https://github.com/user-attachments/assets/a8a6756a-172e-4e61-a6a7-27498f6b4453)
+![IsCompleted_Method](https://github.com/user-attachments/assets/bd85cdff-5bb1-4de5-8e8f-c9bb2c85c6bc)
+![Initialize_Method](https://github.com/user-attachments/assets/22636296-5b16-413c-8a13-c58e74e61fc5)
+
+-----
+
+![Text_Get_Property](https://github.com/user-attachments/assets/f82f3ab8-b045-4bd6-ba92-7ddf04aeeb51)
+![RotateIcon_Set_Property](https://github.com/user-attachments/assets/0a6381ee-9e33-4f82-888b-018fe87398d7)
+![RotateIcon_Get_Property](https://github.com/user-attachments/assets/90c40d06-01c1-4096-99a9-8b4624694f34)
+![Reversed_Set_Property](https://github.com/user-attachments/assets/04290d22-cbe6-4f27-81c2-a46050c0708f)
+![Reversed_Get_Property](https://github.com/user-attachments/assets/537d72c4-7a5a-477b-93c4-5e9584013ddc)
+![OuterColor_Set_Property](https://github.com/user-attachments/assets/54987dcc-222d-4a40-865a-0b1f2704a4d2)
+![Locked_Set_Property](https://github.com/user-attachments/assets/9f9f3caa-7f8f-4ecb-9243-5dc1e4b52b49)
+![Locked_Get_Property](https://github.com/user-attachments/assets/b62d929f-34f9-46b4-b043-99dcc50d6d1f)
+![InnerColor_Set_Property](https://github.com/user-attachments/assets/7b55a082-5fec-4348-a120-7092861dffe5)
+![IconMargin_Set_Property](https://github.com/user-attachments/assets/7499d55a-0da4-44b1-8d3a-49da3f7b94fc)
+![IconMargin_Get_Property](https://github.com/user-attachments/assets/2975552d-eec4-41e8-8853-227a6f531544)
+![IconColor_Set_Property](https://github.com/user-attachments/assets/5e781f63-cd4c-42b8-bbf8-6643a90e18eb)
+![AreaMargin_Set_Property](https://github.com/user-attachments/assets/a922e021-fbca-4dce-8a95-bb8267d220c1)
+![AreaMargin_Get_Property](https://github.com/user-attachments/assets/be2ce9f5-9be1-4632-907a-25c5c0050b62)
+![AnimationDuration_Set_Property](https://github.com/user-attachments/assets/0d61f247-c745-4402-afff-be6e38b1391a)
+![AnimationDuration_Get_Property](https://github.com/user-attachments/assets/54fa8ba6-b0d0-4529-b3ce-9b1f8779561a)
+![AnimateCompletion_Set_Property](https://github.com/user-attachments/assets/c1971013-6ce9-4e6a-84f4-0471ab735095)
+![AnimateCompletion_Get_Property](https://github.com/user-attachments/assets/09c181bd-5dde-4d94-9ad0-d9544d96ea3b)
+![TextSize_Set_Property](https://github.com/user-attachments/assets/8be2773d-3764-4b6b-8a67-cec721778733)
+![TextSize_Get_Property](https://github.com/user-attachments/assets/b7806f13-aa84-4251-b38c-82fa1d3e952e)
+![TextColor_Set_Property](https://github.com/user-attachments/assets/869794a6-f6c5-46d9-b01c-d86f9416df5e)
+![Text_Set_Property](https://github.com/user-attachments/assets/c8ec298e-d46b-429d-ac99-3dfc9804cf52)
+
+
 ## <kbd>Events:</kbd>
 **SlideToAct** has total 7 events.
 
