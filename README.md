@@ -16,6 +16,8 @@ This component is developed by TechHamara using Fast, a powerful tool for creati
 
 ## Demo
 
+![Slide to actblocks.png](https://github.com/user-attachments/assets/26bcb7ad-230e-4199-b167-dedeecf4f247)
+
 ![96c6ea50-bb84-4a57-9b97-10ca2fe475b5.gif](https://github.com/user-attachments/assets/b814f2da-aa5e-477e-8fa8-59c23ab32721)
 
 ![7f98bfab-2b6f-4842-a651-4b8cb00912fe.gif](https://github.com/user-attachments/assets/6078b2ad-a9e2-46ab-bf36-5ad7465f1625)
