@@ -6,12 +6,18 @@ This component is developed by TechHamara using Fast, a powerful tool for creati
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.slidetoact
-💾 **Size:** 21.85 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+📦 **Package:** io.th.slidetoact<br>
+💾 **Size:** 21.85 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+**Library Used On** [slidetoact](https://github.com/Applib-HarmonyOS/slidetoact) Thanks Applib-HarmonyOS for this awesome library.
+
+## Demo
+
+
+## Blocks
 
 ![SlideReset_Event](https://github.com/user-attachments/assets/1cde192c-5ef4-4f93-893a-8ec5fef1cde1)
 ![SlideFailed_Event](https://github.com/user-attachments/assets/11b49d58-0a72-4628-99e6-feeff709e1cb)
