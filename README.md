@@ -16,6 +16,18 @@ This component is developed by TechHamara using Fast, a powerful tool for creati
 
 ## Demo
 
+![96c6ea50-bb84-4a57-9b97-10ca2fe475b5.gif](https://github.com/user-attachments/assets/b814f2da-aa5e-477e-8fa8-59c23ab32721)
+
+![7f98bfab-2b6f-4842-a651-4b8cb00912fe.gif](https://github.com/user-attachments/assets/6078b2ad-a9e2-46ab-bf36-5ad7465f1625)
+
+![f28763fb-64da-4fe5-8d72-73eb151fd0f0.gif](https://github.com/user-attachments/assets/63422f91-a6dd-4b93-854f-1d47ca61b7b5)
+
+![Screenshot_2025-06-11-17-11-39-997_appinventor.ai_Techhamara91.slidetoact.jpg](https://github.com/user-attachments/assets/c436b810-a6e8-4fbd-9a57-c41294cf9364)
+
+![Screenshot_2025-06-11-17-08-39-151_appinventor.ai_Techhamara91.slidetoact.jpg](https://github.com/user-attachments/assets/63c8477b-2240-47a9-baf0-7bb8ae73202c)
+
+![Screenshot_2025-06-11-17-10-59-238_appinventor.ai_Techhamara91.slidetoact.jpg](https://github.com/user-attachments/assets/4240b6dd-da4b-4666-8305-8d7048a33193)
+
 
 ## Blocks
 
